@@ -1,8 +1,8 @@
 
 {
-  "name": "Some operator",
-  "website": "https://www.example.com",
-  "description": "I operate on some data",
-  "logo": "https://www.example.com/logo.png",
-  "twitter": "https://x.com/example"
+  "name": "2xStake.com",
+  "website": "https://www.2xStake.com",
+  "description": "Double Security of Crypto Assets & Double Benefit from Delegation. 100% refund on downtime slashing. 24/7 Support.",
+  "logo": "https://raw.githubusercontent.com/kuatcapital/eigenlayer/develop/test2/logo.png",
+  "twitter": "https://x.com/2xStake"
 }
